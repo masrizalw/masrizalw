@@ -2,7 +2,7 @@
 - 👀 I’m interested in Digital Security
 - 🌱 I’m currently learning Java, Springboot
 - 💞️ I’m looking to collaborate on any Project
-- 📫 Send me email for next talk
+- 📫 Send me email at [mail@masrizalw.com](mailto:mail@masrizalw.com) for next talk
 
 <!---
 masrizalw/masrizalw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
